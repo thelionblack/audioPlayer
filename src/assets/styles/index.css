@@ -1,0 +1,9 @@
+@import "./reset/reset.css";
+@import "./components/player.css";
+
+#root {
+    padding: 30px;
+    color: white
+}
+
+
